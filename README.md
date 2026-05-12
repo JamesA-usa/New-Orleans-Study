@@ -134,29 +134,6 @@ Potential future improvements include:
 
 ---
 
-# Repository Structure
-
-```text
-project/
-│
-├── maps/
-│   ├── Elevation_Map.tif
-│   └── Population_Map.tif
-│
-├── data/
-│   ├── census_data/
-│   ├── elevation_models/
-│   └── shapefiles/
-│
-├── scripts/
-│   ├── preprocessing/
-│   └── spatial_analysis/
-│
-└── README.md
-```
-
----
-
 # Conclusion
 
 This GIS analysis demonstrates how elevation, infrastructure, and demographic datasets can be integrated to better understand environmental and population dynamics in Northeast New Orleans. The resulting visualizations provide valuable insight into flood exposure, infrastructure placement, and demographic distribution patterns that can support both emergency preparedness and long-term urban planning.
