@@ -24,7 +24,7 @@ The elevation map visualizes terrain height relative to water level and levee sy
 - Hospital locations
 - Levee references and flood-prone zones
 
-<img width="1000" alt="image" src="https://github.com/JamesA-usa/New-Orleans-Study/blob/main/Elevation_Map.tif">
+<img width="1000" alt="image" src="https://github.com/JamesA-usa/New-Orleans-Study/blob/main/Elevation_Map.png">
 
 
 
