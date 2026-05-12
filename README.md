@@ -59,14 +59,13 @@ The elevation map visualizes terrain height relative to water level and levee sy
 ## Population Distribution Map
 The population visualization explores demographic and spatial population characteristics across Northeast New Orleans census blocks.
 
-<img width="1000" alt="image" src="https://github.com/JamesA-usa/New-Orleans-Study/blob/main/Population_Map.jpeg">
-
-
-
 ### Included Demographic Layers
 - Total population by census block
 - Male population percentage
 - Population density per square kilometer
+
+
+<img width="1000" alt="image" src="https://github.com/JamesA-usa/New-Orleans-Study/blob/main/Population_Map.jpeg">
 
 ## Population Insights
 
