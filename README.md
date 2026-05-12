@@ -1,4 +1,4 @@
-# Northeast New Orleans GIS & Population Analysis
+# Northeast New Orleans Elevation & Demographic Study
 
 ## Project Overview
 This project presents a geospatial analysis of Northeast New Orleans using elevation and demographic mapping techniques. The analysis combines terrain elevation, flood risk indicators, transportation infrastructure, and population characteristics to better understand environmental vulnerability and community distribution across the region.
